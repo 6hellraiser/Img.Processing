@@ -1,0 +1,12 @@
+E:\Master_1\Img.Processing\1\Gauss\Gauss\bin\Debug\Gauss.exe.config
+E:\Master_1\Img.Processing\1\Gauss\Gauss\bin\Debug\Gauss.exe
+E:\Master_1\Img.Processing\1\Gauss\Gauss\bin\Debug\Gauss.pdb
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.csprojResolveAssemblyReference.cache
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.Form1.resources
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.Properties.Resources.resources
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.csproj.GenerateResource.Cache
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.exe
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.pdb
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.Form2.resources
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.Form3.resources
+E:\Master_1\Img.Processing\1\Gauss\Gauss\obj\Debug\Gauss.Form4.resources
